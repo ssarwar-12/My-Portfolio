@@ -1,6 +1,6 @@
 import { motion} from "framer-motion";
 
-const hero = () => {
+const Hero = () => {
   return (
     <div id="home" className="flex min-h-screen w-full items-center justify-center px-16 py-28 md:px-32">
       <div className="flex flex-col items-center justify-center gap-10 text-white">
@@ -27,4 +27,4 @@ const hero = () => {
   )
 }
 
-export default hero
+export default Hero
