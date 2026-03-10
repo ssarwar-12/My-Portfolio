@@ -20,7 +20,7 @@ const Hero = () => {
         className="flex max-w-[600px] flex-col items-center justify-center gap-3 text-center">
           <h1 className="bg-gradient-to-r from-blue-500 to-pink-500 bg-clip-text text-transparent text-5xl font-light md:text-7xl">Samien Sarwar</h1>
           <h3 className="bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent text-2xl   md:text-2xl">Computer Engineering @ University of Waterloo</h3>
-          <p className="md:text-base text-pretty text-sm text-grey-400">Building intelligent systems at the intersection of robotics, AI, and autonomous navigation.</p>
+          <p className="md:text-base text-pretty text-sm text-gray-400">Building intelligent systems across embedded engineering, AI, machine learning, and robotics.</p>
         </motion.div>
       </div>
     </div>
